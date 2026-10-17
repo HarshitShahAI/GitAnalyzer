@@ -1,8 +1,5 @@
 <div align="center">
-  <br />
-  <img src="https://via.placeholder.com/1000x300/100000/FFFFFF?text=GitAnalyzer+AI" alt="GitAnalyzer AI Banner" />
-  <br />
-  <br />
+  
 
 <b>AI-Powered GitHub Repository Analyzer using Retrieval-Augmented Generation (RAG)</b>
 
