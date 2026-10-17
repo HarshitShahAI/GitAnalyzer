@@ -36,26 +36,8 @@ Instead of manually navigating through complex file trees, developers can instan
 
 ---
 
-## 🚀 Demo
 
-_(Placeholder for Demo GIF)_
-<img src="https://via.placeholder.com/800x450/111111/FFFFFF?text=Demo+GIF+Placeholder" alt="GitAnalyzer Demo" />
 
----
-
-## 📸 Screenshots
-
-<details>
-<summary><b>View Screenshots</b></summary>
-<br/>
-
-|                                             Repository Analysis                                             |                                               Contextual AI Chat                                               |
-| :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
-| <img src="https://via.placeholder.com/400x250/222222/FFFFFF?text=Analysis+View" alt="Analysis Dashboard" /> | <img src="https://via.placeholder.com/400x250/222222/FFFFFF?text=AI+Chat+Interface" alt="AI Chat Interface" /> |
-
-</details>
-
----
 
 ## 🏛️ Architecture
 
